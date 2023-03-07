@@ -11,3 +11,5 @@ Vecka 10:'
 Måndag:
 
 Idag gjorde jag ett dark och lightmode system genom det som är satt på webläsaren.
+
+Tisdag: Idag har jag lagt in våra nya färger i designsystemet. Jag har även tagit reda på vad en sitem ap är och vad call-to-actions är.
