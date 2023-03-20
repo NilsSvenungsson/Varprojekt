@@ -18,3 +18,7 @@ Vecka 11:
 Måndag: Idag har jag skrivit på style guide dokumentet för call to actions och skrivit css.
 
 Tisdag: Idag har jag skrivit html för navbaren och insett att det var bättre att använda någon annans css reset dokument då jag inte tänkt på allt som behöver tänkas på.
+
+Vecka 12:
+
+Måndag: Idag har jag fortsatt på navbaren och startsidan.
