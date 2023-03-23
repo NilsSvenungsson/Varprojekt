@@ -22,3 +22,5 @@ Tisdag: Idag har jag skrivit html för navbaren och insett att det var bättre a
 Vecka 12:
 
 Måndag: Idag har jag fortsatt på navbaren och startsidan.
+
+Torsdag: Idag har jag börjat på footern.
