@@ -23,4 +23,4 @@ Vecka 12:
 
 Måndag: Idag har jag fortsatt på navbaren och startsidan.
 
-Torsdag: Idag har jag börjat på footern.
+Torsdag: Idag har jag börjat på footern och gjort en 404 page not found sida med htaccess.
