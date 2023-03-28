@@ -24,3 +24,9 @@ Vecka 12:
 Måndag: Idag har jag fortsatt på navbaren och startsidan.
 
 Torsdag: Idag har jag börjat på footern och gjort en 404 page not found sida med htaccess.
+
+Vecka 13:
+
+Måndag: Idag har jag försökt använda bootstrap och låtit Casper använda min dator för att kunna se hur de olika teman fungarade då han inte har lightmode.
+
+Tisdag: Idag har jag försökt fixa så darkmode fungerar eftersom boostrap förstörde med specificitet och börjat på hur 404 sidan ska se ut.
