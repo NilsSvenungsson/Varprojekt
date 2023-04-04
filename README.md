@@ -41,3 +41,5 @@ Torsdag: idag har jag fortsatt på page not found sidan med bootstrap.
 Vecka 14:
 
 Måndag: Idag har fortsatt på 404 sidan och försökt göra en effekt då 404 står bakom texten. Lyckades att centrera den horisontellt men inte vertikalt.
+
+Tisdag: Idag har jag försökt göra samma sak som igår. Det fungerade tyvärr inte.
