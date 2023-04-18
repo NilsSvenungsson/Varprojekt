@@ -48,3 +48,4 @@ Tisdag: Idag har jag försökt göra samma sak som igår. Det fungerade tyvärr 
 Vecka 16:
 
 Måndag: Idag har jag kopierat in min artikel och märkt upp den.
+Tisdag: Idag har jag fixat animationen till 404 sidan, hover anmationen till länken på 404 sidan och call to actions på min artikel.
