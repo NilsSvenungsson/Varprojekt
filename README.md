@@ -49,3 +49,9 @@ Vecka 16:
 
 Måndag: Idag har jag kopierat in min artikel och märkt upp den.
 Tisdag: Idag har jag fixat animationen till 404 sidan, hover anmationen till länken på 404 sidan och call to actions på min artikel.
+
+Vecka 17 och 18: Kommer inte ihåg mer än att jag påbörjade för att göra en parallax effekt på min artikel en dag på någon av veckorna.
+
+Vecka 19:
+
+Måndag: Idag har jag lagt till så att artiklarna har samma font-storlek färger och padding.
