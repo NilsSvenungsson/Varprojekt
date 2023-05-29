@@ -55,3 +55,7 @@ Vecka 17 och 18: Kommer inte ihåg mer än att jag påbörjade för att göra en
 Vecka 19:
 
 Måndag: Idag har jag lagt till så att artiklarna har samma font-storlek färger och padding.
+
+Vecka 21:
+
+Söndag: Idag har jag fixat länkarna till footern och gjort tester samt pdf dokumentet för testerna.
